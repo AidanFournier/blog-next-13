@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ThemeButton from "./ThemeButton";
 
 export default function Navbar() {
 
@@ -11,6 +12,8 @@ export default function Navbar() {
                             THE <span className="text-[#B4DC87]">TEA</span>
                         </h1>
                     </Link>
+
+                    <ThemeButton />
                 </div>
             </div>
         </div>
