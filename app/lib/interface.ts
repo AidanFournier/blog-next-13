@@ -1,6 +1,6 @@
 export interface Post {
     title: string;
-    oveerview: string;
+    overview: string;
     content: any;
     _id: string;
     slug: {

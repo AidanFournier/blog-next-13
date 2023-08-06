@@ -37,6 +37,9 @@ export default async function IndexPage() {
                     {post.title}
                   </h3>
                 </div>
+                <p className="prose max-w-none text-gray-500 dark:text-gray-400 line-clamp-2">
+                  {post.overview}
+                </p>
               </Link>
             </article>
           </li>
