@@ -9,7 +9,7 @@ export default function Navbar() {
                 <div className="flex justify-between items-center w-full">
                     <Link href="/">
                         <h1 className="text-2xl font-medium">
-                            THE <span className="text-[#B4DC87]">TEA</span>
+                            Boba <span className="text-[#B4DC87]">Blog</span>
                         </h1>
                     </Link>
 
