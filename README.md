@@ -1,3 +1,11 @@
+<h1 align="left">Boba Blog</h1>
+<h3 align="left">A small project to practice using Next.js 13 with Sanity.io.</h3>
+
+![Screenshot 2023-08-07 at 6 14 30 PM](https://github.com/AidanFournier/blog-next-13/assets/78288118/81d1ae7a-2211-47a1-b9b3-2fe7f4220d9e)
+![Screenshot 2023-08-07 at 6 14 45 PM](https://github.com/AidanFournier/blog-next-13/assets/78288118/8bcb7fa2-ee7a-43ae-8629-17fc3da1f1aa)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -9,7 +17,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+npm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
